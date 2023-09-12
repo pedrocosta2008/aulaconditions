@@ -1,0 +1,141 @@
+//let condicao1 = true;
+//if (condicao1){
+//console.log('entrei no if 1')
+//}
+//let condicao2 = false;
+
+//if (condicao2){
+//console.log('entrei no if 2')
+//}
+
+//function compare(num1, num2) {
+    
+    //if (num1 === num2) {
+    //    return "sucesso";
+  //  }
+//}
+
+//console.log(compare(2,2));
+
+//let codicao = false
+
+//if (codicao) {
+  //  console.log("ENTREI NO IF!")
+//} else{
+//console.log('entrei no else!')
+
+//}
+
+//function compara(num1, num2) {
+ //   if (num1 === num2) {
+   //     return "Numeros iguais"
+   //   }
+   // else{
+    ////    return "numeros diferentes"
+   // }
+//}
+//console.log(compara(
+  //  Number(prompt("digite o primeiro numero"))),
+   // Number(prompt("digite o segundo numero"))
+//)
+
+
+//let condicao1 = false
+////let condicao2 = true
+
+//if (condicao1){
+   // console.log('entrei no if 1!')
+//}
+//else {
+  //  if (condicao2) {
+   //     console.log("entrei no if 2!")
+   // }
+//}
+
+//let condicao1 = false
+//l//et condicao2 = false
+
+//if (condicao1){
+  //  console.log('entrei no if 1')
+//}  else if (condicao2){
+  //  console.log('entrei no if 2')
+
+//} else {
+  //  console.log('entrei no else')
+//}
+
+
+
+//function compare(num1, num2) {
+ //   if (num1 > num2) {
+//console.log('O primeiro numero é maior do que o segundo')}
+  //  else if (num1 < num2) {
+    //    console.log("O primeiro numero é menor do que o segundo ")
+    //}   
+    //else {
+      //  console.log('O primeiro numero é igual ao segundo numero ')
+    //}
+    //}
+
+//let num1 =Number(prompt("insira um numero"))
+//let num2 =Number(prompt("insira outro numero"))
+
+//compare(num1,num2)
+
+//console.log(num1 +"-"+num2)
+
+
+    
+//let paisagemdeorigem
+//if (paisagemdeorigem === 'brasil') {
+  //  console.log('brasileiro')
+//}else if (paisagemdeorigem === 'EUA'){
+  //  console.log('norteamericano')
+//} 
+//else if (paisagemdeorigem === 'FRANÇA'){
+  //  console.log('frances')
+//} 
+//else if (paisagemdeorigem === 'italia'){
+  //  console.log('italiano')
+//} 
+//else if (paisagemdeorigem === 'canada'){
+  //  console.log('canadense')
+//} 
+//else {
+  //  console.log('nacionalidade nao encontrada')
+//} 
+
+//switch (paisagemdeorigem) {
+        //case value: 'brasil';
+        //console.log('brasileiro')
+        //break
+        //case value: 'EUA';
+        //console.log('americano')
+        //break
+        //case value: 'canada';
+        //console.log('canadense')
+        //break
+        //default:
+       //console.log('nacionalidade nao encontrada')
+     //  break
+   // }
+
+let pokemon = (prompt('escolha um pokemon inicial '))
+switch (pokemon) {
+    case 'Bulbassaur':
+      console.log('Planta e Veneno')  
+        break;
+
+    case 'Charmander':
+        console.log("fogo")
+        break;
+
+        case 'Squirtle':
+        console.log('agua')
+        break;
+
+    default:
+        console.log('não encontrado' + po)
+        break;
+}
+
